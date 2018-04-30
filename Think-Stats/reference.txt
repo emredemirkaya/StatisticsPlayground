@@ -1,0 +1,6 @@
+@book{downey2014think,
+  title={Think stats: exploratory data analysis},
+  author={Downey, Allen B},
+  year={2014},
+  publisher={" O'Reilly Media, Inc."}
+}
